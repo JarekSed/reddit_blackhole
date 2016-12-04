@@ -1,6 +1,6 @@
 {
   "name" : "RedditBlackhole",
-  "version" : "1.0.0",
+  "version" : "1.0.1",
   "description" : "Blackholes reddit comments: Instead of submitting when 'submit' is clicked, the comment is silently dropped.",
   "permissions" : [],
   "icons" : {
