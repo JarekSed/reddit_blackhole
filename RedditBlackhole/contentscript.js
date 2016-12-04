@@ -1,6 +1,6 @@
 function commentSubmit(e) {
   e.preventDefault();
-  $("form").find(".status").html("submitting").show();
+  $("form").find(".status").html("submitted!").show();
   $("form").find("input[type=text], textarea").val("");
   return false;
 }
